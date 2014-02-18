@@ -3,6 +3,8 @@ cursorWatcher
 
 Nesneye göre farenin 9 farklı konumunu yakalayıp işlem yapmanızı sağlar.
 
+[Daha somut Örnekler için tıklayın](http://www.erbilen.net/lab/cursorWatcher/)
+
 Nesneye göre konumlar:
 - Yukarı
 - Aşağı
