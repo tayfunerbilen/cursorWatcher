@@ -54,31 +54,31 @@ Kullanımı
 ```javascript
 var body = $('body');
 $('.test div').cursorWatcher({
-	center: function (self) {
+	center: function () {
 		body.css('background-color','#95a5a6');
 	},
-	top: function (self) {
+	top: function () {
 		body.css('background-color','#1abc9c');
 	},
-	topLeft: function (self) {
+	topLeft: function () {
 		body.css('background-color','#2ecc71');
 	},
-	topRight: function (self) {
+	topRight: function () {
 		body.css('background-color','#3498db');
 	},
-	right: function (self) {
+	right: function () {
 		body.css('background-color','#9b59b6');
 	},
-	left: function (self) {
+	left: function () {
 		body.css('background-color','#34495e');
 	},
-	bottom: function (self) {
+	bottom: function () {
 		body.css('background-color','#f1c40f');
 	},
-	bottomLeft: function (self) {
+	bottomLeft: function () {
 		body.css('background-color','#e67e22');
 	},
-	bottomRight: function (self) {
+	bottomRight: function () {
 		body.css('background-color','#e74c3c');
 	}
 });
