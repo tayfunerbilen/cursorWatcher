@@ -19,8 +19,6 @@ Nesneye göre konumlar:
 HTML Yapısı
 =============
 
-En basit haliyle şöyle olmalı;
-
 ```html
 <div class="test">
 	<div></div>
@@ -29,8 +27,6 @@ En basit haliyle şöyle olmalı;
 
 CSS
 =============
-
-En basit haliyle;
 
 ```css
 .test {
